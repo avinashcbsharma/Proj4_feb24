@@ -138,7 +138,8 @@
     font-size: 12px;
 }
 .card{       
-    width: 18rem;        
+    background-color: #ffff;
+    border-radius: 10px;   
 }
 .card-body{
     padding: 0;
